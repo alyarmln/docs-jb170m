@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-bebkuq.ridlerlandscapes.co.nz/sitemap.xml
